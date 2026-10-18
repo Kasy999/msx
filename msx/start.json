@@ -1,0 +1,5 @@
+{
+    "name": "Kasy TV",
+    "version": "1.0.0",
+    "parameter": "menu:request:interaction:init@{PREFIX}{SERVER}/plugin.html"
+}
