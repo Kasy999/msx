@@ -1,0 +1,5 @@
+{
+    "name": "Kasy TV",
+    "version": "1.0.0",
+    "parameter": "menu:request:interaction:init@https://kasy999.github.io/msx/plugin.html"
+}
